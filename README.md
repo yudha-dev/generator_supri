@@ -1,6 +1,6 @@
 # Generator id suprai
 
-Ini untuk generator id yang table aneh harus ada singkatan depanya.
+Ini untuk generator id yang table aneh harus ada singkatan depanya, gatau dia bisa setol*l itu udah gabisa mngoding sok iya sekali.
 
 ## Struktur Proyek
 
