@@ -1,5 +1,7 @@
 {
     "name": "yudhadev/generator-supri",
+    "description": "Primary key generator",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Yudhadev\\GeneratorSupri\\": "src/"
